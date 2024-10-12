@@ -20,17 +20,6 @@ Intentaré hacer actualizaciones periodicas (pero no prometo nada, a veces tengo
 ## Cómo usar este repositorio 🤔
 Puedes clonar este repositorio o descargar los archivos específicos que necesites.
 
-**Funcionamiento en terminal** 
-<br>
-<br>
-![Funcionamiento en terminal](./imagenes/Funcionamiento-en-terminal.png)
-<br>
-<br>
-**Como se ve el código por dentro 👀** 
-<br>
-<br>
-![La belleza del codigo](./imagenes/programacion.png)
-
 **Contribuciones** 🤝
 
 Si eres estudiante o profesional y deseas contribuir al repositorio, ¡tus aportes son bienvenidos! Puedes hacerlo a través de pull requests o enviarme tus sugerencias por correo electrónico.
